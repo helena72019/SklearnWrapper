@@ -3,7 +3,7 @@ from PyQt5.QtGui import *
 from PyQt5.QtWidgets import *
 from PyQt5.QtCore import *
 from MethodWrapper import MethodWrapper
-from clustering import DBSCANWrapper, AffinityPropagationWrapper
+from clustering import DBSCANWrapper, AffinityPropagationWrapper, GmmWrapper
 from classification import MLPWrapper
 
 
